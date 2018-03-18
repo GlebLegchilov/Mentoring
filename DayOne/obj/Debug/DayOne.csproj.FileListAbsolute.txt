@@ -1,0 +1,12 @@
+C:\Users\Глеб\Source\Repos\TaskOne\DayOne\bin\Debug\DayOne.dll
+C:\Users\Глеб\Source\Repos\TaskOne\DayOne\bin\Debug\DayOne.pdb
+C:\Users\Глеб\Source\Repos\TaskOne\DayOne\obj\Debug\DayOne.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\Source\Repos\TaskOne\DayOne\obj\Debug\DayOne.dll
+C:\Users\Глеб\Source\Repos\TaskOne\DayOne\obj\Debug\DayOne.pdb
+C:\Users\Глеб\Source\Repos\TaskOne\DayOne\obj\Debug\DayOne.csprojResolveAssemblyReference.cache
+C:\Users\Глеб\Source\Repos\Mentoring\DayOne\bin\Debug\DayOne.dll
+C:\Users\Глеб\Source\Repos\Mentoring\DayOne\bin\Debug\DayOne.pdb
+C:\Users\Глеб\Source\Repos\Mentoring\DayOne\obj\Debug\DayOne.csprojResolveAssemblyReference.cache
+C:\Users\Глеб\Source\Repos\Mentoring\DayOne\obj\Debug\DayOne.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\Source\Repos\Mentoring\DayOne\obj\Debug\DayOne.dll
+C:\Users\Глеб\Source\Repos\Mentoring\DayOne\obj\Debug\DayOne.pdb
